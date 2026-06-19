@@ -23,7 +23,8 @@ Concepts Used
 * Loops
 * Exception Handling
 * User Input Handling
+oject
 
-Purpose of Project
+Purpose Of Projectt
 
 This project was developed as part of Python programming practice during internship training to strengthen understanding of programming fundamentals and logical problem-solving.
